@@ -1,2 +1,2 @@
-# glotolog.org
-package python
+# https://glotolog.org
+# package python
